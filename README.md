@@ -7,7 +7,7 @@ Step 1: Run batch_install.sh
 
 Step 2: Enter DELTARUNE directory (path to .app is fine)
 
-Step 3: Enjoy
+Step 3: Enjoy!
 
 # How to use (detailed version):
 Step 1: Extract downloaded code
